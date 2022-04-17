@@ -10,10 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Macro8">
         <activity
-            android:name=".SplashScreen1"
+            android:name=".RegistP"
             android:exported="false" />
         <activity
             android:name=".LoginP"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen1"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

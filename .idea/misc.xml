@@ -4,11 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/aap/SIB/Macro8/app/src/main/res/drawable/line.xml" value="0.243" />
-        <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_login_p.xml" value="0.2359375" />
+        <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_login_p.xml" value="0.1" />
         <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_main.xml" value="0.22418478260869565" />
         <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_main2.xml" value="0.2223731884057971" />
+        <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_regist_p.xml" value="0.1" />
         <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_splash_screen.xml" value="0.2223731884057971" />
-        <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_splash_screen1.xml" value="0.4" />
+        <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/activity_splash_screen1.xml" value="0.1" />
         <entry key="..\:/aap/SIB/Macro8/app/src/main/res/layout/fragment_home.xml" value="0.2223731884057971" />
       </map>
     </option>
